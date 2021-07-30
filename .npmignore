@@ -10,6 +10,7 @@ node_modules/
 .eslintignore
 .eslintrc.js
 .gitignore
+.browserslistrc
 babel.config.js
 vue.config.js
 *.map
